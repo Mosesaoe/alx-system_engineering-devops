@@ -1,2 +1,2 @@
 #!/bin/bash
-#!/bin/bash
+path=readlink -f /usr/bin/bash
