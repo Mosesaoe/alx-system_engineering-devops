@@ -1,2 +1,2 @@
 0 string SCHOOL School data
- !:strength 0 School
+ file -C -m School
